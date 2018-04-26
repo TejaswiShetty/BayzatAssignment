@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://www.bayzat.com/",
+  "env": {
+    "mainpage": "https://www.bayzat.com/",
+    "login": "https://www.bayzat.com/login",
+    "dashboard": "https://www.bayzat.com/enterprise/dashboard/index",
+    "employee_list": "https://www.bayzat.com/enterprise/dashboard/employees/list"
+  },
+  "projectId": "y38dja"
+}

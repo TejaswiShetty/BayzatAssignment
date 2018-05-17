@@ -3,5 +3,4 @@ record.bat
 init(package.json).bat
 /node_modules/*
 package-lock.json
-cypress/fixtures/user.json
 *.mp4
